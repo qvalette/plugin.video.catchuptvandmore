@@ -229,6 +229,10 @@ msgctxt "#30076"
 msgid "Bolivia"
 msgstr "בוליביה"
 
+msgctxt "#30077"
+msgid "Romania"
+msgstr "רומניה"
+
 # Channels (from 30080 to 30129)
 
 msgctxt "#30080"
