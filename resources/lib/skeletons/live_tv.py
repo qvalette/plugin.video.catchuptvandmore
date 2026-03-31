@@ -216,5 +216,12 @@ menu = {
         'thumb': 'channels/ve.png',
         'enabled': True,
         'order': 27
+    },
+    'ro_live': {
+        'route': '/resources/lib/main:generic_menu',
+        'label': 30077,
+        'thumb': 'channels/ro.png',
+        'enabled': True,
+        'order': 28
     }
 }
